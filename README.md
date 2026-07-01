@@ -10,11 +10,11 @@ I work on collecting raw datasets, transforming them using python/SQL and conver
 I enjoy solving business problems with data and presenting insights clearly and visually.
 
 ## Skills
-**Programming:** SQL, Python (Pandas, NumPy)
-**Analytics:** Exploratory Data Analysis (EDA), Data Cleaning, Data Transformation
-**Visualization:** Power BI
-**Data Handling:** ETL Pipelines, Power Query, Large Dataset Processing, Data Extraction, Data Validation
-**Other:** Excel, Statistics
+- **Programming:** SQL, Python (Pandas, NumPy)
+- **Analytics:** Exploratory Data Analysis (EDA), Data Cleaning, Data Transformation
+- **Visualization:** Power BI
+- **Data Handling:** ETL Pipelines, Power Query, Large Dataset Processing, Data Extraction, Data Validation
+- **Other:** Excel, Statistics
 
 ## Tools I Use
 - SQL

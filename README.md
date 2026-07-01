@@ -13,7 +13,7 @@ I enjoy solving business problems with data and presenting insights clearly and 
 **Programming:** SQL, Python (Pandas, NumPy)
 **Analytics:** Exploratory Data Analysis (EDA), Data Cleaning, Data Transformation
 **Visualization:** Power BI
-**Data Handling"** ETL Pipelines, Power Query, Large Dataset Processing, Data Extraction, Data Validation
+**Data Handling:** ETL Pipelines, Power Query, Large Dataset Processing, Data Extraction, Data Validation
 **Other:** Excel, Statistics
 
 ## Tools I Use

@@ -61,4 +61,5 @@ Microsoft Excel, Power BI
 ## Contact
 - Email : **vamshi6875@gmail.com**
 - LinkedIn : https://www.linkedin.com/in/vamshi-bhupathi24
+- Resume : [**https://drive.google.com/drive/u/0/home**]
 - Phone : 8187886875
